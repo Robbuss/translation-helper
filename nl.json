@@ -1,0 +1,42 @@
+[{
+        "Login": {
+            "trans_wzvg5la": "Login",
+            "trans_b2vxhe1": "Login"
+        }
+    },
+    {
+        "404": {
+            "trans_zsoz9yl": "404. Page not found."
+        }
+    },
+    {
+        "Index": {
+            "trans_a6memza": "Logged out home page",
+            "trans_y1lyc95": "Login"
+        }
+    },
+    {
+        "NavItems": {}
+    },
+    {
+        "Register": {
+            "trans_hu53o3s": "Register",
+            "trans_gp70sdm": "Register"
+        }
+    },
+    {
+        "Router": {
+            "trans_sus3sm5": "Application"
+        }
+    },
+    {
+        "Index": {}
+    },
+    {
+        "Dashboard": {
+            "trans_8fspldz": "(650) 555-1234",
+            "trans_t04mayy": "Mobile",
+            "trans_nvgo3dd": "Work"
+        }
+    }
+]{"Login":{"trans_d9932t7":"Login","trans_66s6817":"Login"}},{"404":{"trans_66pndz9":"404. Page not found."}},{"NavItems":{}},{"Register":{"trans_o122ly5":"Register","trans_tt52qab":"Register"}},{"Index":{"trans_b448scd":"Logged out home page","trans_aywg02c":"Login"}},{"Dashboard":{"trans_6kpfjez":"(650) 555-1234","trans_rtoclv0":"Mobile","trans_z8rmq0y":"Work"}},{"Router":{"trans_ijwoo05":"Application"}},{"Index":{}},
